@@ -102,3 +102,5 @@ General datepicker component.
 |                              |
 | `yearItemNumber`             | `number`                       | `12`            |                                                                                               |
 | `yearDropdownItemNumber`     | `number`                       |                 |                                                                                               |
+| `renderDayContents`   |      | `func`                         |                 | This propperty used to customize the contents of a day cell
+| `renderCustomHeader`  |      | `func`                         |                 | This propperty customize the header of the datepicker component
